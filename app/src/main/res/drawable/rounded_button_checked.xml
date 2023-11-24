@@ -1,0 +1,9 @@
+<!-- res/drawable/rounded_button_checked.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" />
+    <stroke
+        android:width="2dp"
+        android:color="#000000" />
+    <corners android:radius="20dp" />
+    <solid android:color="@android:color/holo_orange_light" /> <!-- Background color in the checked state -->
+</shape>

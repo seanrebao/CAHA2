@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+    <item
+        android:title="TV Remote"
+        android:icon="@drawable/baseline_settings_remote_24"
+        android:id="@+id/remote"/>
+    <item
+        android:title="Energy Consumption"
+        android:icon="@drawable/baseline_electric_bolt_24"
+        android:id="@+id/energy"/>
+    <item
+        android:title="Calendar"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:id="@+id/calendar"/>
+
+    <item
+        android:title="Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:id="@+id/settings"/>
+</menu>
